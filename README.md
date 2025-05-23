@@ -1,12 +1,37 @@
-# React + Vite
+# Blog Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 What is the Use of This Repo?
 
-Currently, two official plugins are available:
+This project is a simple **React + Vite + TailwindCSS** blog website that demonstrates:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. ✅ Creating reusable components in React  
+2. ✅ Using React Router for basic routing  
+3. ✅ Integrating the Dev.to API for dynamic blog posts  
+4. ✅ Implementing a light/dark mode toggle  
+5. ✅ Styling with TailwindCSS and Lucide icons  
 
-## Expanding the ESLint configuration
+This project serves as a great template for building blog-style React applications using modern frontend tooling.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🌐 Live Application URL
+
+👉 [Live Demo](https://blog-ten-rust-85.vercel.app/)
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+git clone https://github.com/shahil26/Blog-Website.git
+
+cd Blog-Website
+### 2. Install Dependencies
+npm install
+### 3. Run the Application
+npm run dev
+
+The app will run at:
+http://localhost:5173
+
+
