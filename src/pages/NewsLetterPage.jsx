@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Newsletter from "../components/projects/NewsLetter";
+import Newsletter from "../components/projects/NewsLetter.jsx";
 import { fetchBlogPosts } from "../services/api";
 import ProjectCard from "../components/projects/ProjectCard"; // Assuming this is the right import
 
